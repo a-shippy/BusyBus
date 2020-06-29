@@ -1,0 +1,181 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color:#333333;
+  font-family: sans-serif;
+  font-size: 10px;
+}
+
+.incoming {
+  margin: 0 auto;
+  width: 420px;
+
+}
+
+.content {
+  padding-left: 10px;
+}
+
+
+nav {
+  margin: 0 auto;
+  padding: 0px 0px 15px 0px;
+  position: fixed;
+  width: 420px;
+  height: 100px;
+  background-color:#141414;
+  line-height: 20px;
+}
+.topbar {
+  width: 415px;
+}
+
+.arrow-left {
+  display: inline-block;
+  padding-left: 25px;
+  padding-bottom: 35px;
+  vertical-align: middle;
+}
+
+
+.menu {
+  display:inline-block;
+  padding-left: 65px;
+  padding-top: 18px;
+  vertical-align: top;
+}
+
+
+.header {
+  display: inline-block;
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 60px;
+  vertical-align: baseline;
+}
+
+#header {
+  color: #ffffff;
+}
+
+#wash {
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: lighter;
+  margin-top: 5px;
+}
+
+.arrow {
+  display: inline-block;
+  text-align: left;
+  width: 10%;
+  color: #ffffff;
+}
+
+h1, h3 {
+  vertical-align: bottom;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: rubik, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  width: 20%;
+  color: #ffffff;
+
+
+
+}
+
+h2 {
+  display: inline-block;
+
+  width: 55%;
+  padding-left: 40px;
+  font-size: 14px;
+  color: #000000;
+}
+
+h3 {
+  display: inline-block;
+  font-size: 12px;
+  text-align: left;
+  padding-left: 40px;
+  padding-top: 7px;
+  width: 40%;
+  float: right;
+  color: #000000;
+}
+
+h4 {
+  display: inline-block;
+  padding-left: 56px;
+  padding-top: 2px;
+  font-size: 14px;
+}
+
+
+.tab {
+  display: inline-block;
+  background-color: #141414;
+  width: 420px;
+  height: 60px;
+}
+
+.tab1, .tab2, .tab3 {
+  padding-left: 51px;
+  padding-right: 51px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+
+.restaurant-list {
+  padding-top: 100px;
+  background-color: #52F062;
+}
+
+.location {
+  clear: both;
+  padding: 15px;
+  height: 70px;
+  border-bottom: 1px solid black;
+}
+
+.location:hover {
+  background-color:#95bd99;
+
+}
+
+.locationc {
+  clear: both;
+  padding: 15px;
+  height: 70px;
+  border-bottom: 1px solid black;
+  background-color: #cccccc;
+}
+
+.locationc:hover {
+  background-color:#a2a6a3;
+
+}
+
+.locationd {
+  clear: both;
+  padding: 15px;
+  height: 70px;
+  border-bottom: 1px solid black;
+  background-color: #cccccc;
+}
+
+.locationd:hover {
+  background-color:#a2a6a3;
+
+}
