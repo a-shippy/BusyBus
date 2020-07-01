@@ -125,6 +125,8 @@ h4 {
 .tab {
   display: inline-block;
   background-color: #141414;
+  margin-left: -15px;
+  margin-top: 10px;
   width: 420px;
   height: 60px;
 }
@@ -137,9 +139,9 @@ h4 {
 }
 
 
-.restaurant-list {
+.bus-list {
   padding-top: 100px;
-  background-color: #52F062;
+  background-color: #30aa3b;
 }
 
 .location {
@@ -159,7 +161,7 @@ h4 {
   padding: 15px;
   height: 70px;
   border-bottom: 1px solid black;
-  background-color: #cccccc;
+  background-color: #858585;
 }
 
 .locationc:hover {
@@ -172,7 +174,7 @@ h4 {
   padding: 15px;
   height: 70px;
   border-bottom: 1px solid black;
-  background-color: #cccccc;
+  background-color: #858585;
 }
 
 .locationd:hover {
